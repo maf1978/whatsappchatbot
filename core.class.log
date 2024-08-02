@@ -1,0 +1,108 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '17864578470@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE069C23DA9C4EEC42F',
+    participant: undefined
+  },
+  messageTimestamp: 1722197172,
+  pushName: 'Workphone',
+  broadcast: false,
+  message: Message {
+    conversation: 'Martens de la semana Que viene',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Martens de la semana Que viene',
+  from: '17864578470'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9a64bef1-3dc7-4afa-90ba-34e9691a867a',
+  keyword: 'key_4a2eca44-ba70-49ea-a2e5-4f7ded5dd902',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9000ffd763812499f9d19e5c5bfb8ca3'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '120363300503716965@g.us',
+    fromMe: false,
+    id: '3EB01417B2A78B93AF9B50',
+    participant: '51915149291@s.whatsapp.net'
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: '⚙  1. Implementación de arranque seguro de motores trifásicos: Método 3x1',
+  from: '120363300503716965@g.us',
+  pushName: 'salazaryasser816',
+  broadcast: false,
+  messageTimestamp: 1722197318,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer a2 a0 44 42 90 47 e8 08 ed eb b1 87 80 5a 02 e4 99 be 7e ad 6d 94 b7 fb 58 56 80 66 b4 90 2d bb>
+    },
+    pollCreationMessageV3: PollCreationMessage {
+      options: [Array],
+      name: '*Cuéntanos, ¿Cuál es el tema que más te emociona ver en la Semana de la Automatización Industrial?*',
+      selectableOptionsCount: 0
+    }
+  },
+  type: 'poll'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9a64bef1-3dc7-4afa-90ba-34e9691a867a',
+  keyword: 'key_4a2eca44-ba70-49ea-a2e5-4f7ded5dd902',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9000ffd763812499f9d19e5c5bfb8ca3'
+}
+[ERROR ID (c4ca1d6d-fbbe-4366-9a90-dd15346ff86b)]:  Error: Timed Out
+    at C:\Users\ferre\OneDrive\Desktop\whatsapp\calendar\base-baileys-memory\node_modules\@whiskeysockets\baileys\lib\Utils\generics.js:136:32 {
+  data: {
+    stack: 'Error\n' +
+      '    at promiseTimeout (C:\\Users\\ferre\\OneDrive\\Desktop\\whatsapp\\calendar\\base-baileys-memory\\node_modules\\@whiskeysockets\\baileys\\lib\\Utils\\generics.js:131:19)\n' +
+      '    at waitForMessage (C:\\Users\\ferre\\OneDrive\\Desktop\\whatsapp\\calendar\\base-baileys-memory\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\socket.js:114:53)\n' +
+      '    at query (C:\\Users\\ferre\\OneDrive\\Desktop\\whatsapp\\calendar\\base-baileys-memory\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\socket.js:136:22)\n' +
+      '    at getUSyncDevices (C:\\Users\\ferre\\OneDrive\\Desktop\\whatsapp\\calendar\\base-baileys-memory\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\messages-send.js:166:30)\n' +
+      '    at C:\\Users\\ferre\\OneDrive\\Desktop\\whatsapp\\calendar\\base-baileys-memory\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\messages-send.js:355:53\n' +
+      '    at Object.transaction (C:\\Users\\ferre\\OneDrive\\Desktop\\whatsapp\\calendar\\base-baileys-memory\\node_modules\\@whiskeysockets\\baileys\\lib\\Utils\\auth-utils.js:136:32)\n' +
+      '    at relayMessage (C:\\Users\\ferre\\OneDrive\\Desktop\\whatsapp\\calendar\\base-baileys-memory\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\messages-send.js:278:30)\n' +
+      '    at Object.sendMessage (C:\\Users\\ferre\\OneDrive\\Desktop\\whatsapp\\calendar\\base-baileys-memory\\node_modules\\@whiskeysockets\\baileys\\lib\\Socket\\messages-send.js:649:23)\n' +
+      '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+      '    at async CoreClass.sendProviderAndSave (C:\\Users\\ferre\\OneDrive\\Desktop\\whatsapp\\calendar\\base-baileys-memory\\node_modules\\@bot-whatsapp\\bot\\lib\\bundle.bot.cjs:1561:21)'
+  },
+  isBoom: true,
+  isServer: false,
+  output: {
+    statusCode: 408,
+    payload: {
+      statusCode: 408,
+      error: 'Request Time-out',
+      message: 'Timed Out'
+    },
+    headers: {}
+  }
+}
