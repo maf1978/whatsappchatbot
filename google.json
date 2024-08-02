@@ -1,13 +1,13 @@
 {
   "type": "service_account",
-  "project_id": "calendarchatbot-427600",
-  "private_key_id": "52b6b160942197fe576983a1c6c2eb227b792807",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDDtvqEqGu6Z0Of\nbWxVooj+grMUt9TS/CrXbMSZuIki0WOtQCEcVzYclLjyFPw/G4nOEueDSRyIGkh0\nG9wIFnhFwi7GAn0dN10yam8py8pFSzr+w+1uFJQvWSiZgr4vfeIQEyLq4UYTqIJo\n5tgsTBw8NOiscOXieiRpRGm7v3szxI76yIra0k+GAn4V0XNJmvggAJ352YrnWm+P\nWsdwuMniOqGDWWX0bziOl+YDSi0tQzZRUO7LWCdYNv0uk3/2jVJuQSTgdFhwhbOf\nmeIj9j+0bzi+M5Xdpt43joIQ8FGIBVMw2Ay/yvWFSh3ibVPsBJSxDgbYeQkvhKNT\n6iG9HgifAgMBAAECggEAMQ2pmJpF9gBv2IOqhYQpZfEIRYcV1pPRgREH7ads58cn\nfoL2SY4qR9uWx0YvOvoB/h6K3EL03cAIrOFWssg++O0EoCh7h1kbCMnYdtdXKSsD\n7FrbJZ4OzhdAr8kvNeQNRw4k0E4KLF8t4HELeX7SDN0N/DqHw83tVl0JSz9g98Y6\nAzc0HAnu3QeJxB9PtR6q4p7vGOGZjJnaJj2F1IC38Fdc8Q6tfdv3NmxPOG3ECkFL\njw+1kzeC1KOoRccMH9eGUeX/okEMge2cA+suEwd5cG0F60NeOIIRIGQ5kPXnxKUg\nnNvWiD0zEQvXm2rp7mQJMBT0wnhhsdSu7t/86+wEEQKBgQDghpCloBULMJYHGd8X\n9mxT9Y5UHwW0wrZeH/I7FUNOUxAr9SdBNn6a1Ha1VU6ZsQpuGWJ8+by9BBnx7AGq\nddBW0c9Kf5T12J5ht4le+Ul0WM9eBHgtlE05HjckMDVwaHMB1kSY7Jo+7+/+yz0Y\ntcFIfNRfEaVsfb68zux0g1ovQwKBgQDfJn4J5bTmN1aaJjpMyv6DupRslMcE1TKY\n5iPxGT69t4LGd2qdfI2yWwmBpeTwdx7KBVKVjnMkkUrxfb25F9M8XEKzMZOxOGWH\nTug9n3ny2hsAh8cKt0BfJWoJyyskiSF2YlSPiLKsE0PbFsZrQYQLZkg62Jtg8CN2\nEI5nECtldQKBgHLrbU3YyeyYSbIIw+936apvnRHhbwI+RymWIF2tXG3Shgx5xkXS\npqqI5NmbeEeiHjyMMaTWDoyQdNcmfRPKiYBmkzsGYjATV72cO2upHLe4XSs6DmkF\n5yC9HmwfYLrQO01NZn7/W1Ora6N2Uyc6oFuByRF/7rPBCMeLAewA70ARAoGAeO1I\nIh7sMFHOyYxrzY+36zTiGBFr5I+QctFMquwOVwsqgFjYWu3Tb9LrzOlUrocvFTVb\nMpbWiPt/jGyisrpZi31H3AnCyqgQRQoaysIweM1/EoOB9qml5anF0/bYs1zo2Fmj\nD4F5qcxq2kB2WEtRvke4XsNhOGAKJ4IDWZCmo70CgYAP5ntMhdFnclKJeG2K4sWf\nvgkKtsneRvaXK5R8+oTKy8Dl5qbcIOU6Ju+DkEX/6qxB3Ofn0plgn/DoBM55IfTu\nab9bTDlCCPbd5URQk54Geu9+wW6x9SmQ5wCpoGt2n95wFF0NfGkKsyB6aW0l/stB\nDaQRx4fO4d7KnwuuzlctvA==\n-----END PRIVATE KEY-----\n",
-  "client_email": "calendarapi@calendarchatbot-427600.iam.gserviceaccount.com",
-  "client_id": "113872109167143427885",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/calendarapi%40calendarchatbot-427600.iam.gserviceaccount.com",
+  "client_x509_cert_url": "",
   "universe_domain": "googleapis.com"
 }
